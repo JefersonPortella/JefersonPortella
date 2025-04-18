@@ -3,7 +3,7 @@
 <!--   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk2MGhnNjBkMjF5azNzdWd6cndiYWthdzRoNWZsbGIwdnpnM2lybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" width="100" alt="Gif com saudações" /> -->
 </div>
 
-<h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
+<h1 align="center"> 👨🏾‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
 <p align="center"><i>Desenvolvedor Junior | Cursando Tcnológia da Informação </i></p>
 
 ---
@@ -34,16 +34,16 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francine02&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Francine02&theme=tokyonight" alt="Github estatísticas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonPortella&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JefersonPortella&theme=tokyonight" alt="Github estatísticas"/>
 </div>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JefersonPortella/JefersonPortella/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JefersonPortella/JefersonPortella/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JefersonPortella/JefersonPortella/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
